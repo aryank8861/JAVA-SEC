@@ -16,4 +16,5 @@ public class dup{
         }
         System.out.println("%s",(N==0)?"No duplicates":"have a ")
     }
+
 }
