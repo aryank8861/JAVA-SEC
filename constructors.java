@@ -30,7 +30,8 @@ public class constructors{
         Student s2=new Student("raj",20);
         s2.display();
         
-        Student s3=new Student("Chetan",19,"AIML");
+        Student s3=new Student("Aryan",19,"AIML");
         s3.display();
     }
+
 }
